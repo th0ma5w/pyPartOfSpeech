@@ -52,11 +52,7 @@ class LexerNode:
 				match = self.matches[x]
 				if LEVEL_TWO.findall(match):
 					arr.append(match)
-	def toString(self):
-		arr = []
-		self.fillArray(arr)
-		return arr.toString()
-	
+
 class Lexer:
 	def __init__(self):
 		global REGEXES
