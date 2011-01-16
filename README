@@ -1,7 +1,7 @@
 ABOUT:
 
 pypos is a Python port of Percy Wegmann's Javascript port of Mark Watson's 
-FastTag Part of Speech Tagger which  was itself based on Eric Brill's trained 
+FastTag Part of Speech Tagger which was itself based on Eric Brill's trained 
 rule set and English lexicon. 
 
 pypos also includes a basic lexer that can be used to extract words and other
