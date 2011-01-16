@@ -56,7 +56,6 @@ class LexerNode:
 class Lexer:
 	def __init__(self):
 		global REGEXES
-		"""Split by numbers, then whitespace, then punctuation"""
     		self.regexs = REGEXES
 	def lex(self,string):
 		arr = []
