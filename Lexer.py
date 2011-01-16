@@ -6,7 +6,7 @@
  * Licensed under the GNU LGPLv3 license
  * http://www.opensource.org/licenses/lgpl-3.0.html
 
-Parts of Speech Lexer
+Part of Speech Lexer
 
 """
 import re
